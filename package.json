@@ -17,8 +17,9 @@
     "migration:revert": "./node_modules/.bin/ts-node ./node_modules/.bin/typeorm migration:revert"
   },
   "dependencies": {
-    "class-transformer": "^0.5.1",
-    "class-validator": "^0.13.2",
+    "axios": "^1.2.6",
+    "class-transformer": "^0.3.1",
+    "class-validator": "^0.12.2",
     "cors": "^2.8.5",
     "express": "^4.17.3",
     "mysql2": "^2.3.3",
